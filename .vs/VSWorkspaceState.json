@@ -1,8 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SM-Post"
+    "\\CQRS-ES",
+    "\\CQRS-ES\\CQRS.Core",
+    "\\CQRS-ES\\CQRS.Core\\Commands",
+    "\\CQRS-ES\\CQRS.Core\\Messages",
+    "\\SM-Post",
+    "\\SM-Post\\Post.Cmd",
+    "\\SM-Post\\Post.Cmd\\Post.Cmd.Api",
+    "\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Commands"
   ],
-  "SelectedNode": "\\SM-Post\\SM-Post.sln",
+  "SelectedNode": "\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Commands\\NewPostCommand.cs",
   "PreviewInSolutionExplorer": false
 }
